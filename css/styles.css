@@ -4,6 +4,7 @@
   color:white;
   text-align: center;
   font-size: 1.5em;
+  
  }
 
 .logo{
@@ -37,5 +38,9 @@ h1{
 
 .service{
   padding-top:100px;
+}
+
+#wedo{
+  height:500px;
 }
 
