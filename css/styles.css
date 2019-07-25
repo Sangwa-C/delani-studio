@@ -24,3 +24,8 @@ h1{
   font-size: 1.5em;
   line-height:1.5em;
 }
+
+#service{
+  background-image: url("../image/background/s_image.jpg")
+  
+}
