@@ -42,5 +42,15 @@ h1{
 
 #wedo{
   height:500px;
+  text-align: center;
+}
+#desc{
+  display:none;
+}
+#delpt{
+  display:none;
+}
+#pro{
+  display:none;
 }
 
