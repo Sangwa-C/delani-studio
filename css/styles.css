@@ -18,3 +18,9 @@ h1{
 .mouse{
   margin-top:230px;
 }
+
+#about{
+  text-align: center;
+  font-size: 1.5em;
+  line-height:1.5em;
+}
