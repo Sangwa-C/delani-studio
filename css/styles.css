@@ -54,11 +54,47 @@ h1{
   display:none;
 }
 
-#portfolio{
-  height:500px;
+#portfolio1{
+  height:350px;
+  justify-content: space-between;
 }
 
-.image{
-  ;
+#portfolio2{
+  height:350px;
 }
+
+#image1{
+  width:100%;
+}
+
+#image2{
+  width:100%;
+}
+
+#image3{
+  width:100%;
+}
+
+#image4{
+  width:100%;
+}
+
+#image5{
+  width:100%;
+}
+
+#image6{
+  width:100%;
+}
+
+#image7{
+  width:100%;
+}
+
+#image8{
+  width:100%;
+}
+
+
+
 
