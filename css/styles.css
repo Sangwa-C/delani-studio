@@ -65,6 +65,87 @@ h1{
 
 #image1{
   width:100%;
+  position: relative;
+}
+
+#p1{
+  position: absolute;
+  top:90px;
+  left:80px;
+  background-color: transparent;
+  color:whitesmoke;
+  display:none;
+  font-size: 1.5em;
+}
+
+#p2{
+  position: absolute;
+  top:90px;
+  left:80px;
+  background-color: transparent;
+  color:red;
+  display:none;
+  font-size: 1.5em;
+}
+
+#p3{
+  position: absolute;
+  top:90px;
+  left:80px;
+  background-color: transparent;
+  color:whitesmoke;
+  display:none;
+  font-size: 1.5em;
+}
+
+#p4{
+  position: absolute;
+  top:90px;
+  left:80px;
+  background-color: transparent;
+  color:whitesmoke;
+  display:none;
+  font-size: 1.5em;
+}
+
+#p5{
+  position: absolute;
+  top:90px;
+  left:80px;
+  background-color: transparent;
+  color:black;
+  display:none;
+  font-size: 1.5em;
+}
+
+#p6{
+  position: absolute;
+  top:90px;
+  left:80px;
+  background-color: transparent;
+  color:black;
+  display:none;
+  font-size: 1.5em;
+}
+
+#p7{
+  position: absolute;
+  top:90px;
+  left:80px;
+  background-color: transparent;
+  color:whitesmoke;
+  display:none;
+  font-size: 1.5em;
+}
+
+#p8{
+  position: absolute;
+  top:30px;
+  left:40px;
+  background-color: transparent;
+  color:whitesmoke;
+  display:none;
+  font-size: 2em;
 }
 
 #image2{
@@ -94,6 +175,8 @@ h1{
 #image8{
   width:100%;
 }
+
+
 
 
 
