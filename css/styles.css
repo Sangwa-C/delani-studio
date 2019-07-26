@@ -32,16 +32,16 @@ h1{
   background-image: url("../image/background/s_image.jpg");
   color:white;
   text-align: center;
-  height:400px;
+  height:250px;
   font-size: 2em;
 }
 
 .service{
-  padding-top:100px;
+  padding-top:50px;
 }
 
 #wedo{
-  height:500px;
+  height:350px;
   text-align: center;
 }
 #desc{
@@ -52,5 +52,9 @@ h1{
 }
 #pro{
   display:none;
+}
+
+#portfolio{
+  height:500px;
 }
 
