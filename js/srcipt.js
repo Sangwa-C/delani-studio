@@ -79,10 +79,20 @@ $(document).ready(function() {
 });
 
 $(document).ready(function(){
-  $("#submit").submit(function(){
-    var submit=$(submit).val()
-
-    alert("result" + "We have received your message. Thank you for reaching out to us.")
+ $("#form1").submit(function(event){
+   var name=$("input#name").val();
+   var email=$("input#email").val();
+   var message=$.trim($("#message").val());
+   if ((name!="") && (email!="") && (message!="")){
+    alert(name + ", We have received your message. Thank you for reaching out to us.")
+   }
+   else{
+     alert("Fill well the form")
+    }
+    event.preventDefault();
   });
+
+    
 });
+
 
