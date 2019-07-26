@@ -7,11 +7,11 @@
 * Connect to the internet
 * Open your browser
 * In your browser adress bar type the following
-* 
+* https://sangwa-c.github.io/delani-studio/.
 * then you will directly be on their page
 
 ## Known Bugs
-This webpage is not suitable for all screen sizes
+This webpage is not suitable for all screen sizes.
 
 ## Technologies Used
 * HTML 
@@ -22,6 +22,6 @@ This webpage is not suitable for all screen sizes
 ## Support and contact details
 If you any issues or have questions, ideas or concerns contact us on any of our page, or you the form on our page.
 ### License
-MIT Copyright (c) 2019 Sangwa Sabine Chelsea
+MIT Copyright (c) 2019 Sangwa Sabine Chelsea.
 
 
