@@ -72,9 +72,17 @@ $(document).ready(function() {
     $("#p8").hide();
   });
 
-  $("#submit").click(function() {
-    alert("We have received your message. Thank you for reaching out to us.")
-  });
+  // $("#submit").click(function() {
+  //   alert("We have received your message. Thank you for reaching out to us.")
+  // });
 
+});
+
+$(document).ready(function(){
+  $("#submit").submit(function(){
+    var submit=$(submit).val()
+
+    alert("result" + "We have received your message. Thank you for reaching out to us.")
+  });
 });
 
