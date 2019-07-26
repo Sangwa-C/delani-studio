@@ -72,5 +72,9 @@ $(document).ready(function() {
     $("#p8").hide();
   });
 
+  $("#submit").click(function() {
+    alert("We have received your message. Thank you fro reaching out to us.")
+  });
+
 });
 

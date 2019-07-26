@@ -178,7 +178,7 @@ h1{
 
 #contact{
   background-image: url("../image/background/c_image.jpg");
-  height:700px;
+  height:500px;
   color:white;
   font-size: 2em;
   text-align: center;
@@ -208,6 +208,16 @@ h1{
 
 input[type=text], select{
   color:white;
+}
+
+::placeholder {
+  color: white;
+}
+
+#submit{
+  color:black;
+  border:solid black;
+  border-radius:45px;
 }
 
 
