@@ -178,7 +178,7 @@ h1{
 
 #contact{
   background-image: url("../image/background/c_image.jpg");
-  height:500px;
+  height:550px;
   color:white;
   font-size: 2em;
   text-align: center;
@@ -218,11 +218,18 @@ input[type=text], select{
   color:black;
   border:solid black;
   border-radius:45px;
+  margin-top: 20px;
 }
 
 #social{
   margin-top:50px;
-  height:80px;
+  height:100px;
+}
+
+
+footer{
+  text-align: center;
+  font-size: 1.5em;
 }
 
 
