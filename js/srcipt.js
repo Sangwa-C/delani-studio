@@ -71,10 +71,7 @@ $(document).ready(function() {
   $("#image8").mouseleave(function(){
     $("#p8").hide();
   });
-
-  // $("#submit").click(function() {
-  //   alert("We have received your message. Thank you for reaching out to us.")
-  // });
+4
 
 });
 
