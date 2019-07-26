@@ -7,7 +7,7 @@
 * Connect to the internet
 * Open your browser
 * In your browser adress bar type the following
-* 
+* https://sangwa-c.github.io/delani-studio/.
 * then you will directly be on their page
 
 ## Known Bugs
