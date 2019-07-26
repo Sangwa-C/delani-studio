@@ -11,7 +11,7 @@
 * then you will directly be on their page
 
 ## Known Bugs
-This webpage is not suitable for all screen sizes
+This webpage is not suitable for all screen sizes!
 
 ## Technologies Used
 * HTML 
