@@ -178,9 +178,37 @@ h1{
 
 #contact{
   background-image: url("../image/background/c_image.jpg");
-  height:500px;
+  height:700px;
+  color:white;
+  font-size: 2em;
+  text-align: center;
 }
 
+#name{
+  width:80%;
+  background-color: transparent;
+  color:white;
+  margin-top: 50px;
+}
+#email{
+  width:80%;
+  background-color: transparent;
+  color:white;
+  margin-top: 50px;
+}
+
+#message{
+  width:90%;
+  height:200px;
+  top:0;
+  background-color: transparent;
+  color:white;
+  margin-top: 50px;
+}
+
+input[type=text], select{
+  color:white;
+}
 
 
 
