@@ -1,5 +1,5 @@
 # Delani Studio
-#### this is the website of delani stuio, it contains informations about Delani Studio. Last edited on 29 july 2019.
+#### this is the website of Delani Studio, it contains informations about Delani Studio. Last edited on 29 july 2019.
 #### By **Sangwa Sabine Chelsea**
 ## Description
 This webpage is for Delani Studio. It is a webpage with the information about Delani as an entity with images showing what they do and how they manage to do and help their clients.
@@ -30,15 +30,15 @@ This webpage is for Delani Studio. It is a webpage with the information about De
 
     Input Example: Name: Sangwa,
 
-          Email: chelsea@gmail.com
+                    Email: chelsea@gmail.com
 
-          message: Need you to make a product for my campany
+                    message: Need you to make a product for my campany
 
     Output Example: Hello Sangwa! We have received your message. Thank you for reaching out to us.
 
 
 ## Known Bugs
-This webpage is not suitable for all screen sizes.s
+This webpage is not suitable for all screen sizes.
 
 ## Technologies Used
 * HTML 
