@@ -10,7 +10,7 @@ This webpage is for Delani Studio. It is a webpage with the information about De
 * https://sangwa-c.github.io/delani-studio/.
 * then you will directly be on their page
 
-##BDD
+## BDD
 
 *The program should accept input from the user.
     Input Example: (Name : Sangwa)
