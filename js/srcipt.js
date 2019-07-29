@@ -71,7 +71,7 @@ $(document).ready(function() {
   $("#image8").mouseleave(function(){
     $("#p8").hide();
   });
-4
+
 
 });
 
