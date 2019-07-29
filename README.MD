@@ -38,7 +38,7 @@ This webpage is for Delani Studio. It is a webpage with the information about De
 
 
 ## Known Bugs
-This webpage is not suitable for all screen sizes.
+This webpage is not suitable for all screen sizes.s
 
 ## Technologies Used
 * HTML 
