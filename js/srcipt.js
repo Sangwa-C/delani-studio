@@ -81,7 +81,7 @@ $(document).ready(function(){
    var email=$("input#email").val();
    var message=$.trim($("#message").val());
    if ((name!="") && (email!="") && (message!="")){
-    alert(name + ", We have received your message. Thank you for reaching out to us.")
+    alert( "Hello " + name + "! We have received your message. Thank you for reaching out to us.")
    }
    else{
      alert("Fill well the form")
