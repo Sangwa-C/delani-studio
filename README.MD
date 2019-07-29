@@ -12,24 +12,27 @@ This webpage is for Delani Studio. It is a webpage with the information about De
 
 ## BDD
 
-*The program should accept input from the user.
+**The program should accept input from the user.**
+
     Input Example: (Name : Sangwa)
 
     Input Example: (Email: chelsea@gmail.com)
-    s
+    
     input EXample: (Message: the message you want to give Delani studio)
 
-*The program should recognize if input field is empty
+**The program should recognize if input field is empty**
 
     Input Example: (empty field)
 
     Output Example: Fill well the form
 
-*The program should return when the user enter a message to be sent 
+**The program should return when the user enter a message to be sent**
 
     Input Example: Name: Sangwa,
-               Email: chelsea@gmail.com
-               message: Need you to make a product for my campany
+
+          Email: chelsea@gmail.com
+
+          message: Need you to make a product for my campany
 
     Output Example: Hello Sangwa! We have received your message. Thank you for reaching out to us.
 
