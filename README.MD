@@ -28,11 +28,11 @@ This webpage is for Delani Studio. It is a webpage with the information about De
 
 **The program should return when the user enter a message to be sent**
 
-    Input Example: Name: Sangwa,
+    Input Example:  -Name: Sangwa,
 
-                    Email: chelsea@gmail.com
+                    -Email: chelsea@gmail.com
 
-                    message: Need you to make a product for my campany
+                    -message: Need you to make a product for my campany
 
     Output Example: Hello Sangwa! We have received your message. Thank you for reaching out to us.
 
