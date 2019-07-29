@@ -50,7 +50,7 @@ $(document).ready(function() {
   $("#img5").mouseenter(function(){
       $("#p5").show();
     }); 
-  $("#img").mouseleave(function(){
+  $("#img5").mouseleave(function(){
       $("#p5").hide();
     }); 
   $("#img6").mouseenter(function(){
