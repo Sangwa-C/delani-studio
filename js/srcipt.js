@@ -23,52 +23,52 @@ $(document).ready(function() {
     $("#pro").hide();
     $("#product").show();
     });       
-  $("#image1").mouseenter(function(){
+  $("#img1").mouseover(function(){
     $("#p1").show();
   }); 
-  $("#image1").mouseleave(function(){
+  $("#img1").mouseleave(function(){
     $("#p1").hide();
   });  
-  $("#image2").mouseenter(function(){
+  $("#img2").mouseenter(function(){
     $("#p2").show();
   }); 
-  $("#image2").mouseleave(function(){
+  $("#img2").mouseleave(function(){
     $("#p2").hide();
   });
-  $("#image3").mouseenter(function(){
+  $("#img3").mouseenter(function(){
     $("#p3").show();
   }); 
-  $("#image3").mouseleave(function(){
+  $("#img3").mouseleave(function(){
     $("#p3").hide();
   });  
-  $("#image4").mouseenter(function(){
+  $("#img4").mouseenter(function(){
     $("#p4").show();
   }); 
-  $("#image4").mouseleave(function(){
+  $("#img4").mouseleave(function(){
     $("#p4").hide();
   });  
-  $("#image5").mouseenter(function(){
+  $("#img5").mouseenter(function(){
     $("#p5").show();
   }); 
-  $("#image5").mouseleave(function(){
+  $("#img").mouseleave(function(){
     $("#p5").hide();
   }); 
-  $("#image6").mouseenter(function(){
+  $("#img6").mouseenter(function(){
     $("#p6").show();
   }); 
-  $("#image6").mouseleave(function(){
+  $("#img6").mouseleave(function(){
     $("#p6").hide();
   });
-  $("#image7").mouseenter(function(){
+  $("#img7").mouseenter(function(){
     $("#p7").show();
   }); 
-  $("#image7").mouseleave(function(){
+  $("#img7").mouseleave(function(){
     $("#p7").hide();
   });
-  $("#image8").mouseenter(function(){
+  $("#img8").mouseenter(function(){
     $("#p8").show();
   }); 
-  $("#image8").mouseleave(function(){
+  $("#img8").mouseleave(function(){
     $("#p8").hide();
   });
 
