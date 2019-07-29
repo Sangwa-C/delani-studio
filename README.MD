@@ -1,5 +1,5 @@
 # Delani Studio
-#### this is the website of delani stuio, it contains informations about Delani Studio. Last edited on 29 july 2019.
+#### this is the website of Delani Studio , it contains informations about Delani Studio. Last edited on 29 july 2019.
 #### By **Sangwa Sabine Chelsea**
 ## Description
 This webpage is for Delani Studio. It is a webpage with the information about Delani as an entity with images showing what they do and how they manage to do and help their clients.
