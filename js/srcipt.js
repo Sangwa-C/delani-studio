@@ -1,3 +1,4 @@
+// This is the Business logic
 $(document).ready(function() {
   $("#description").click(function() {
     $("#description").hide();
